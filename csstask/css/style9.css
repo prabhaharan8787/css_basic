@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+
+.bg{
+    background-image: url('https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1645786079.jpg');
+   background-repeat:no-repeat ;
+   background-size: cover;
+   background-attachment: fixed;
+   width: 100%;
+   height: 400px;
+   color: red; 
+   font-style: italic;
+   word-spacing: 5px;
+
+}
+h2{
+    text-align: center;  
+    font-variant: small-caps;
+    font-size: 26px;
+}
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
+p{
+    text-indent: 20px;
+   word-spacing: 10px;
+ 
+}
+ul{
+    list-style-type: none;
+    
+}
+ul li{
+    padding: 20px;
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+}
+a:link{
+    color: aqua;
+    background-color: rgb(77, 186, 219);
+}
+a:hover{
+    color:crimson;
+    background-color: yellow;
+}
+a:active{
+    color: green;
+}
+a:visited{
+    color:blue;
+}

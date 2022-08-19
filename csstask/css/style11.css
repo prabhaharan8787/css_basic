@@ -1,0 +1,10 @@
+table,th,td{
+    border: 2px solid red;
+    border-collapse: collapse;
+    padding: 20px;
+    color: rgb(65, 55, 194);
+}
+div{
+ 
+    margin-left: 200px;
+}
